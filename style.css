@@ -1,0 +1,153 @@
+element.style {
+ letter-spacing: 0.4em;
+}
+span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, acronym, address, big, cite, code, del, dfn, em, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, header, hgroup, main, menu, nav, output, ruby, summary, time, mark, audio, video {
+ margin: 0;
+ padding: 0;
+ border: 0;
+ font-size: 100%;
+ font: inherit;
+}
+a, abbr, acronym, address, applet, b, big, blockquote, body, button, caption, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, footer, form, h1, h2, h3, h4, h5, h6, header, html, i, iframe, img, ins, kbd, label, legend, li, nav, object, ol, p, pre, q, s, samp, section, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, title, tr, tt, u, ul, var {
+ background: transparent;
+ border: 0;
+ margin: 0;
+ outline: 0;
+ padding: 0;
+ vertical-align: baseline;
+}
+.color_13 {
+ color: rgb(var(--color_13));
+}
+style attribute {
+ font-weight: bold;
+}
+style attribute {
+ line-height: 1.5em;
+ text-align: center;
+ font-size: 22px;
+}
+.BaOVQ8 blockquote, .BaOVQ8 h1, .BaOVQ8 h2, .BaOVQ8 h3, .BaOVQ8 h4, .BaOVQ8 h5, .BaOVQ8 h6, .BaOVQ8 p {
+ letter-spacing: normal;
+ line-height: normal;
+}
+.font_2 {
+ font: var(--font_2);
+ color: rgb(var(--color_2));
+ letter-spacing: 0em;
+}
+.BaOVQ8>*, .KcpHeO>* {
+ pointer-events: auto;
+}
+.BaOVQ8, .KcpHeO {
+ word-wrap: break-word;
+ min-height: var(--min-height);
+ min-width: var(--min-width);
+ overflow-wrap: break-word;
+ pointer-events: none;
+ text-align: start;
+}
+[data-mesh-id$=-gridContainer]>*, [data-mesh-id$=-rotated-wrapper]>*, [data-mesh-id$=inlineContent]>:not([data-mesh-id$=-gridContainer]) {
+ pointer-events: auto;
+}
+[data-mesh-id$=centeredContent], [data-mesh-id$=form], [data-mesh-id$=inlineContent] {
+ pointer-events: none;
+ position: relative;
+}
+#SITE_HEADER {
+ --bg: var(--color_11);
+ --shd: none;
+ --brwt: 0px;
+ --brd: var(--color_13);
+ --brwb: 5px;
+ --bgctr: var(--color_11);
+ --rd: 0px;
+ --boxShadowToggleOn-shd: none;
+ --alpha-brd: 1;
+ --alpha-bgctr: 1;
+ --alpha-bg: 1;
+ --shc-mutated-brightness: 128,128,128;
+}
+#SITE_HEADER {
+ left: 0;
+ margin-left: 0;
+ width: 100%;
+ min-width: 980px;
+ --pinned-layer-in-container: 50;
+ --above-all-in-container: 49;
+}
+#masterPage {
+ --pinned-layers-in-page: 0;
+}
+body {
+ margin: 0;
+ padding: 0;
+ -webkit-touch-callout: none;
+ -webkit-text-size-adjust: none;
+ -webkit-highlight: none;
+ -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+body {
+ font-family: Arial,Helvetica,sans-serif;
+ font-size: 10px;
+}
+:root {
+ --color_0: 255,255,255;
+ --color_27: 131,211,187;
+ --color_1: 255,255,255;
+ --color_2: 0,0,0;
+ --color_3: 237,28,36;
+ --color_4: 0,136,203;
+ --color_5: 255,203,5;
+ --color_6: 114,114,114;
+ --color_7: 176,176,176;
+ --color_8: 255,255,255;
+ --color_28: 45,189,146;
+ --color_9: 114,114,114;
+ --color_10: 176,176,176;
+ --color_11: 255,255,255;
+ --color_12: 232,230,230;
+ --color_13: 179,179,179;
+ --color_14: 89,89,89;
+ --color_15: 0,0,0;
+ --color_16: 201,165,248;
+ --color_17: 173,121,241;
+ --color_18: 102,0,234;
+ --color_29: 30,126,97;
+ --color_19: 68,0,156;
+ --color_20: 34,0,78;
+ --color_21: 173,198,248;
+ --color_22: 131,168,240;
+ --color_23: 21,93,233;
+ --color_24: 14,62,155;
+ --color_25: 7,31,78;
+ --color_30: 15,63,49;
+ --color_31: 245,171,207;
+ --color_32: 234,129,180;
+ --color_33: 224,22,120;
+ --color_34: 149,15,80;
+ --color_35: 75,7,40;
+ --font_0: normal normal normal 38px/1.4em playfairdisplay-bold,'playfair display',serif;
+ --font_1: normal normal normal 16px/1.4em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif;
+ --font_2: normal normal normal 22px/1.4em avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif;
+ --font_3: normal normal normal 14px/1.4em avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif;
+ --font_4: normal normal normal 116px/1.4em playfairdisplay-bold,'playfair display',serif;
+ --font_5: normal normal normal 20px/1.4em playfairdisplay-bold,'playfair display',serif;
+ --font_6: normal normal normal 20px/1.4em avenir-lt-w01_85-heavy1475544,avenir-lt-w05_85-heavy,sans-serif;
+ --font_7: normal normal normal 17px/1.4em 'playfair display',serif;
+ --font_8: normal normal normal 17px/1.4em avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif;
+ --font_9: normal normal normal 14px/1.4em avenir-lt-w01_35-light1475496,avenir-lt-w05_35-light,sans-serif;
+ --font_10: normal normal normal 12px/1.4em din-next-w01-light,din-next-w02-light,din-next-w10-light,sans-serif;
+ --wix-ads-height: 0px;
+ --wix-ads-top-height: 0px;
+ --site-width: 980px;
+ --above-all-z-index: 100000;
+Show All Properties (4 more)
+}
+html {
+ height: 100%;
+ margin: 0;
+ padding: 0;
+ -webkit-tap-highlight-color: rgba(0,0,0,0);
+ touch-action: manipulation;
+}
